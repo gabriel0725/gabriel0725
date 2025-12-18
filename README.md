@@ -11,11 +11,11 @@ Desenvolvedor Full Stack
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=gabriel0725&repo=E-food&theme=dark)](https://github.com/gabriel0725/E-food)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=gabriel0725&repo=E-food&theme=dark)](https://github.com/gabriel0725/E-food)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=gabriel0725&repo=ProjetoCadastroJava&theme=dark)](https://github.com/gabriel0725/ProjetoCadastroJava)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=gabriel0725&repo=E-food&theme=dark)](https://github.com/gabriel0725/E-food)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=gabriel0725&repo=NewPortifolio&theme=dark)](https://github.com/gabriel0725/NewPortifolio)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=gabriel0725&repo=E-food&theme=dark)](https://github.com/gabriel0725/E-food)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=gabriel0725&repo=BP&theme=dark)](https://github.com/gabriel0725/BP)
 
 
 ### Linguagens utilizadas
