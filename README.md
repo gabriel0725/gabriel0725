@@ -35,8 +35,7 @@
   </a>
 </p>
 
-<p 
-  >
+<p>
   <a href="https://github.com/gabriel0725/NewPortifolio">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=gabriel0725&repo=NewPortifolio&theme=dark" />
   </a>
