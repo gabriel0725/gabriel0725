@@ -28,25 +28,25 @@
 
 <p>
   <a href="https://github.com/gabriel0725/system-product-rawmaterials">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=gabriel0725&repo=system-product-rawmaterials&theme=dark" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=gabriel0725&repo=system-product-rawmaterials&theme=dark&cache_seconds=1" />
   </a>
   <a href="https://github.com/gabriel0725/ProjetoCadastroJava">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=gabriel0725&repo=ProjetoCadastroJava&theme=dark" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=gabriel0725&repo=ProjetoCadastroJava&theme=dark&cache_seconds=1" />
   </a>
 </p>
 
 <p>
   <a href="https://github.com/gabriel0725/NewPortifolio">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=gabriel0725&repo=NewPortifolio&theme=dark" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=gabriel0725&repo=NewPortifolio&theme=dark&cache_seconds=1" />
   </a>
    <a href="https://github.com/gabriel0725/E-food">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=gabriel0725&repo=E-food&theme=dark" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=gabriel0725&repo=E-food&theme=dark&cache_seconds=1" />
   </a>
 </p>
 
 <p>
   <a href="https://github.com/gabriel0725/BP">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=gabriel0725&repo=BP&theme=dark" />
+   <img src="https://github-readme-stats.vercel.app/api/pin/?username=gabriel0725&repo=BP&theme=dark&cache_seconds=1" />
   </a>
 </p>
 
