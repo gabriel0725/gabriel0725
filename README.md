@@ -28,25 +28,25 @@
 
 <p>
   <a href="https://github.com/gabriel0725/system-product-rawmaterials">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=gabriel0725&repo=system-product-rawmaterials&theme=dark&cache_seconds=1" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=gabriel0725&repo=system-product-rawmaterials&theme=dark&v=1" />
   </a>
   <a href="https://github.com/gabriel0725/ProjetoCadastroJava">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=gabriel0725&repo=ProjetoCadastroJava&theme=dark&cache_seconds=1" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=gabriel0725&repo=ProjetoCadastroJava&theme=dark&v=2" />
   </a>
 </p>
 
 <p>
   <a href="https://github.com/gabriel0725/NewPortifolio">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=gabriel0725&repo=NewPortifolio&theme=dark&cache_seconds=1" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=gabriel0725&repo=NewPortifolio&theme=dark&v=1" />
   </a>
    <a href="https://github.com/gabriel0725/E-food">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=gabriel0725&repo=E-food&theme=dark&cache_seconds=1" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=gabriel0725&repo=E-food&theme=dark&v=2" />
   </a>
 </p>
 
 <p>
   <a href="https://github.com/gabriel0725/BP">
-   <img src="https://github-readme-stats.vercel.app/api/pin/?username=gabriel0725&repo=BP&theme=dark&cache_seconds=1" />
+   <img src="https://github-readme-stats.vercel.app/api/pin/?username=gabriel0725&repo=BP&theme=dark&v=2" />
   </a>
 </p>
 
@@ -56,4 +56,6 @@
   <a href = "mailto:gabriel.gmcontato@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://linkedin.com/in/gabrielmachadocoutinho/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
+
+
 
